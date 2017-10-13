@@ -1,0 +1,27 @@
+{
+  "name": "vue-devtools",
+  "version": "3.1.5",
+  "description": "devtools for Vue.js!",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vue-devtools.git"
+  },
+  "keywords": [
+    "vue",
+    "devtools"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/vue-devtools/issues"
+  },
+  "homepage": "https://github.com/vuejs/vue-devtools#readme",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+  }
+}
