@@ -4,6 +4,7 @@
   "description": "devtools for Vue.js!",
   "main": "index.js",
   "scripts": {
+    "dev":"node app.js"
   },
   "repository": {
     "type": "git",
@@ -19,9 +20,8 @@
     "url": "https://github.com/vuejs/vue-devtools/issues"
   },
   "homepage": "https://github.com/vuejs/vue-devtools#readme",
-  "devDependencies": {
-    
-  },
+  "devDependencies": {},
   "dependencies": {
+    "koa": "^2.3.0"
   }
 }
