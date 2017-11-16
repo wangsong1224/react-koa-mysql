@@ -4,7 +4,9 @@
   "description": "devtools for Vue.js!",
   "main": "index.js",
   "scripts": {
-    "dev":"node app.js"
+    "server":"node ./back_end/app.js",
+    "dev":"",
+    "build":""
   },
   "repository": {
     "type": "git",
