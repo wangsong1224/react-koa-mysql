@@ -12,10 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/vuejs/vue-devtools.git"
   },
-  "keywords": [
-    "vue",
-    "devtools"
-  ],
+  "keywords": ["vue", "devtools"],
   "author": "Evan You",
   "license": "MIT",
   "bugs": {
@@ -23,6 +20,8 @@
   },
   "homepage": "https://github.com/vuejs/vue-devtools#readme",
   "devDependencies": {
+    "eslint": "^4.14.0",
+    "eslint-plugin-react": "^7.5.1",
     "express": "^4.16.2",
     "opn": "^5.1.0",
     "webpack": "^3.8.1",
